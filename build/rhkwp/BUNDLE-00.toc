@@ -1,0 +1,3 @@
+([('rhkwp',
+   '/Users/sin-eunlim/Desktop/재우/AI/project/dist/rhkwp',
+   'EXECUTABLE')],)
